@@ -115,4 +115,4 @@ Before production deployment, review [Security](docs/SECURITY.md).
 
 ## License
 
-Add the project's actual license here before publishing the repository.
+This project is licensed under the [MIT License](LICENSE)
